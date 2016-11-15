@@ -1,0 +1,30 @@
+{
+  "name": "ss",
+  "version": "0.1.0",
+  "description": "simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhilan/ss.git"
+  },
+  "keywords": [
+    "hapi",
+    "server",
+    "simple",
+    "node"
+  ],
+  "author": "mgmuhilan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhilan/ss/issues"
+  },
+  "homepage": "https://github.com/muhilan/ss#readme",
+  "dependencies": {
+    "hapi": "^15.2.0",
+    "os": "^0.1.1"
+  }
+}
